@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+it's me, new here and start finding out what coding is about :)
 <!--
 **alaintappolet/alaintappolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
